@@ -5,8 +5,8 @@ slug: macpro71-rackmount
 part_number: A2304
 is_full_depth: true
 u_height: 5
-comments: "- Model Number: A2304\r\n- EMC: 3413\r\n- Edition: 3th Gen\r\n- Processor Speed: 2.7Ghz\r\n- Processor Type: Intel\
-  \ Xeon-W\r\n- Processors (Cores): 24\r\n- Hard Drive: 512 GB NVME Flash\r\n- RAM: 96 GB\r\n- Release Date: June 3, 2019\r\nhttps://support.apple.com/kb/SP810?locale=en_US"
+comments: "- Model Number: A2304\r\n- EMC: 3413\r\n- Edition: 3th Gen\r\n- Processor Speed: 2.7Ghz\r\n- Processor Type: Intel Xeon-W\r\n- Processors (Cores):\
+  \ 24\r\n- Hard Drive: 512 GB NVME Flash\r\n- RAM: 96 GB\r\n- Release Date: June 3, 2019\r\nhttps://support.apple.com/kb/SP810?locale=en_US"
 power-ports:
   - name: PSU 1
     type: iec-60320-c14
