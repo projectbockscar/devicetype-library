@@ -1,0 +1,48 @@
+---
+manufacturer: Apple
+model: MacPro7,1 (Rackmount)
+slug: macpro71-rackmount
+part_number: A2304
+is_full_depth: true
+u_height: 5
+comments: "- Model Number: A2304\r\n- EMC: 3413\r\n- Edition: 3th Gen\r\n- Processor Speed: 2.7Ghz\r\n- Processor Type: Intel\
+  \ Xeon-W\r\n- Processors (Cores): 24\r\n- Hard Drive: 512 GB NVME Flash\r\n- RAM: 96 GB\r\n- Release Date: June 3, 2019\r\nhttps://support.apple.com/kb/SP810?locale=en_US"
+power-ports:
+  - name: PSU 1
+    type: iec-60320-c14
+    maximum_draw: 1480
+interfaces:
+  - name: en0
+    type: 10GBASE-T (10GE)
+    mgmt_only: false
+  - name: en1
+    type: 10GBASE-T (10GE)
+    mgmt_only: false
+  - name: wireless
+    type: ieee802.11ac
+    mgmt_only: false
+module-bays:
+  - name: PCIe1
+    position: PCIe1
+    label: PCIe1
+  - name: PCIe2
+    position: PCIe2
+    label: PCIe2
+  - name: PCIe3
+    position: PCIe3
+    label: PCIe3
+  - name: PCIe4
+    position: PCIe4
+    label: PCIe4
+  - name: PCIe5
+    position: PCIe5
+    label: PCIe5
+  - name: PCIe6
+    position: PCIe6
+    label: PCIe6
+  - name: PCIe7
+    position: PCIe7
+    label: PCIe7
+  - name: PCIe8
+    position: PCIe8
+    label: PCIe8
